@@ -4,7 +4,6 @@ Welcome to my little digital island! 🌿✨ This is a cozy, Animal Crossing-ins
 
 ## 🎨 Features
 - 🌸 **Whimsical Animal Crossing Aesthetic** – Soft pastels, rounded corners, and a friendly atmosphere.
-- 🎵 **Background Music** – Enjoy a relaxing tune as you explore (just like a visit to K.K. Slider's concert!).
 - 🏡 **Sections for Everything** – About Me, Projects, and Contact, all wrapped up in a cozy UI.
 - 🎮 **Dynamic and Minimalist** – A simple but delightful way to showcase creativity.
 
